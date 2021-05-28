@@ -25,6 +25,6 @@
     "jquery-parallax.js": "^1.5.0",
     "popper.js": "^1.16.1",
     "tether": "^1.4.7",
-    "tinymce": "^4.9.11"
+    "tinymce": "^5.7.1"
   }
 }
